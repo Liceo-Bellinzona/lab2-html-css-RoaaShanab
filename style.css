@@ -1,7 +1,12 @@
 h1 {
     color: rgb(255, 0, 0);
+    text-align: center;
 }
-
+h2{
+    text-align: center;
+    background-color: rgba(69, 69, 243, 0.836); 
+    border-radius: 10px  
+}
 .block {
     background-color: rgb(241, 222, 221);
     border-style: solid;
@@ -17,9 +22,17 @@ h1 {
 }
 
 
+
 img {
     width: 50%;
     margin: auto;
     display: block;
 
 }
+a:hover {
+    color: hotpink;
+  }
+  a:visited {
+    color: green;
+  }
+  
